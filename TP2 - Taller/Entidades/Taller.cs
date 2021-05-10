@@ -50,7 +50,7 @@ namespace Entidades
         /// SOLO del tipo requerido
         /// </summary>
         /// <param name="taller">Elemento a exponer</param>
-        /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
+        /// <param name="tipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns>Listado de vehiculos</returns>
         public static string Listar(Taller taller, ETipo tipo)
         {
